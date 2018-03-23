@@ -65,6 +65,7 @@
                     android:layout_gravity="center_horizontal"
                     android:layout_width="300dp"
                     android:layout_height="wrap_content"
+                    android:id="@+id/login"
                     android:text="Login"
                     android:textAllCaps="false"/>
             </LinearLayout>

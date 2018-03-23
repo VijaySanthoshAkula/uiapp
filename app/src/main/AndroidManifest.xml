@@ -16,6 +16,49 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ShakeActivity2">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.ShakeActivity2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Sit3Activity">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.Sit3Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".StandActivity4">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.StandActivity4" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WalkActivity5">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.WalkActivity5" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ContactNumbersScreenActivity7">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.ContactNumbersScreenActivity7" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DropActivity6">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.DropActivity6" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ContactnumberscreenActivity7"></activity>
     </application>
 
 </manifest>
