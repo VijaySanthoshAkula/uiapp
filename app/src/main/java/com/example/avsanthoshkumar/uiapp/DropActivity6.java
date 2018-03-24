@@ -20,7 +20,7 @@ public class DropActivity6 extends AppCompatActivity {
         Next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent("com.example.avsanthoshkumar.uiapp.ContactNumbersScreenActivity7");
+                Intent intent=new Intent("com.example.avsanthoshkumar.uiapp.ContactnumberscreenActivity7");
                 startActivity(intent);
             }
         });

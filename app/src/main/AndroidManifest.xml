@@ -44,13 +44,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".ContactNumbersScreenActivity7">
-            <intent-filter>
-                <action android:name="com.example.avsanthoshkumar.uiapp.ContactNumbersScreenActivity7" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
         <activity android:name=".DropActivity6">
             <intent-filter>
                 <action android:name="com.example.avsanthoshkumar.uiapp.DropActivity6" />
@@ -58,7 +51,18 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".ContactnumberscreenActivity7"></activity>
+        <activity android:name=".ContactnumberscreenActivity7">
+            <intent-filter>
+                <action android:name="com.example.avsanthoshkumar.uiapp.ContactnumberscreenActivity7" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FinalActivity8"> <intent-filter>
+            <action android:name="com.example.avsanthoshkumar.uiapp.FinalActivity8" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter></activity>
     </application>
 
 </manifest>
